@@ -1,0 +1,82 @@
+body{
+	background: #fafafa;
+}
+
+.header_nav{
+	background: #fafafa;
+	padding: 15px 0 0; 
+	box-shadow: 0 1px 6px rgba(34, 25, 25, 0.6); 	
+	text-transform: uppercase;
+	margin-bottom: 10px;
+}
+
+/*------------Banner---------------------*/
+.banner{
+	background: #f3f3f3;
+}
+
+.banner_supersize{
+	font-size: 8em;
+	text-align: center;
+	font-weight: normal;
+	margin: 0 0 10px;
+}
+
+.welcome_text{
+	font-size: 2em;
+	font-weight: normal;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style: italic;
+	text-align: center;
+}
+
+/*---------------community-----------------*/
+.community{
+	background: #fff;
+	padding: 20px 0;
+	border-top: 1px dotted #999;
+
+}
+
+/*---------------gallery-----------------*/
+.gallery{
+	background: #262626;
+	padding: 20px 0;
+	color: #fff;
+	border-top: 1px dotted #999;
+	border-bottom: 1px dotted #999; 
+}
+
+.gallery h2{
+	text-align: center;
+	font-size: 1.08em;
+	padding: 0 0 20px;
+}
+
+/*---------------tresure-----------------*/
+.tresure{
+	padding: 20px 0;
+}
+
+.tresure h1{
+	text-align: center;
+}
+
+/*---------------lorem-----------------*/
+
+.lorem .panels{
+	border: 1px solid #e6e6e6;
+	background: #f2f2f2;
+	padding: 20px;
+	margin: 0 0 20px 0;
+
+}
+
+/*---------------footer-----------------*/
+footer{
+	padding: 20px;
+}
+footer ul{
+	margin-top: 40px;
+	text-align: center;
+}
